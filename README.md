@@ -1,17 +1,18 @@
 <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" align="right" alt="GIF" width="400" />
 
-### Hi there 👋
+### Hi, I'm Beyzanur 🌸
 
+- 🎓 I'm an industrial engineer.
 - 🔭 I’m currently working on [Android Projects](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress)                                                             
 - 🌱 I’m currently learning Android with Kotlin.
 - 📫 How to reach me: beyzanurtas98@gmail.com
-- :sparkles: Fun fact: Canvas embroidery, cooking and cycling.   
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/beyzanurtas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+- ✨ Fun fact: I love cycling, cooking and canvas embroidery. If you are curious about my posts about these, you can check out [my account](https://www.instagram.com/beyzaanurtass/). 
+ 
+<h3 align="left">Connect with me 🤙 </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/beyzanurtas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/beyzaanurtass/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 
