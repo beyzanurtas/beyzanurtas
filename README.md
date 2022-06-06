@@ -1,12 +1,10 @@
-<img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" align="right" alt="GIF" width="400" />
-
 ### Hi, I'm Beyzanur 🌸
 
 - 🎓 I'm an industrial engineer.
 - 🔭 I’m currently working on [Android Projects](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress)                                                             
 - 🌱 I’m currently learning Android with Kotlin.
 - 📫 How to reach me: beyzanurtas98@gmail.com
-- ✨ Fun fact: I love cycling, cooking and canvas embroidery. If you are curious about my posts about these, you can check out [my account](https://www.instagram.com/beyzaanurtass/). 
+- ✨ Fun fact: I love cycling, playing volleyball, cooking and canvas embroidery. If you are curious about my posts about these, you can check out [my account](https://www.instagram.com/beyzaanurtass/). 
  
 <h3 align="left">Connect with me 🤙 </h3>
 <p align="left">
